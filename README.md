@@ -21,7 +21,7 @@ This project aims to make job interviews online by using a user-friendly website
 - [Second iteration](https://drive.google.com/file/d/1S6MdIyo80X_SWQzmuZpct1nP5S6joTYn/view?usp=sharing)
 - [Final iteration](https://drive.google.com/file/d/1rTVLGmWfide2lyrYyHYxJ7TQXuOIw4gh/view?usp=sharing)
 
-# Screenshots
+# Screenshots 📸
 ![](screenshots/1.jpg)
 ![](screenshots/2.jpg)
 ![](screenshots/3.jpeg)
