@@ -2,8 +2,7 @@
 
 
 # Project description 🖥
-This project aims to make job interviews online by using a user-friendly website to solve coding questions using the hackerrank API. Find out more about the project here 
-- https://kesisenyollar.org/programlar/devpaths/
+This project aims to make job interviews online by using a user-friendly website to solve coding questions using the hackerrank API. Find out more about the project  [here](https://kesisenyollar.org/programlar/devpaths/)
 
 # Libraries used for this project 📚
 - [Django](https://www.djangoproject.com/)
