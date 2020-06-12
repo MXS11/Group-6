@@ -9,7 +9,7 @@ This project aims to make job interviews online by creating a user-friendly webs
 - [Django-allauth](https://github.com/pennersr/django-allauth)
 - [Django-crispy-forms](https://django-crispy-forms.readthedocs.io/en/latest/)
 - [Heroku](https://www.heroku.com/)
-- [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
+- [Beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
 
 # Team members ✊
 - [Amhar Jabeer](https://github.com/Ajabeer)
