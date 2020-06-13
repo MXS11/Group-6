@@ -1,6 +1,6 @@
-# Group-6
-
-
+# Group-6 
+**To do**
+- [ ] combine all parts together
 # Project description 🖥
 This project aims to make job interviews online by creating a user-friendly website to solve coding questions using the hackerrank API. Find out more about the project  [here.](https://kesisenyollar.org/programlar/devpaths/)
 
