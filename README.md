@@ -12,7 +12,7 @@ This project aims to make job interviews online by creating a user-friendly webs
 
 # Team members ✊
 - [Amhar Jabeer](https://github.com/Ajabeer)
-- [Mohammad Shughri](https://github.com/MXS11)
+- [Mohammad Shughri](https://github.com/MohammadShughri)
 - [Patrick Twambilile Sibale](https://github.com/Twambie)
 - [Yusuf Kılıç](https://github.com/yusufkilic96)
 
